@@ -17,4 +17,5 @@ ReactDOM.render(
 reportWebVitals();
 
 // installing service worker
-navigator.serviceWorker.register("/sw-analytics.js");
+navigator.serviceWorker.register("/sw-pwa.js");
+// navigator.serviceWorker.register("/sw-analytics.js");
